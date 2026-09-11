@@ -1,5 +1,5 @@
 name: Contributor License Agreement Policy
-description: CLA policy file
+description: Microsoft CLA policy for orka-agents repositories
 
 resource: repository
 
